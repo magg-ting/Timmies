@@ -13,5 +13,6 @@ Eduardo - Contact page
 ## Copyright
 All images belong to Tim Hortons and are used in the project for educational purposes only.  
 
-
-#### Last updated: Jul 31, 2023
+   
+**First published:** 2023-08-31  
+**Last modified:** 2023-08-31
