@@ -1,9 +1,14 @@
 # Timmies
 
 ## About
-This is a college project to create a micro website (with homepage, about page, product page and contact page) for Tim Hortons.  
+This is a group college project to create a micro website (with homepage, about page, product page and contact page) for Tim Hortons.  
 
 The objective is to style responsive webpages with pure CSS, so frameworks such as Bootstrap and Tailwind are not used here.
+
+
+https://github.com/user-attachments/assets/98370432-72d3-4434-ab4d-50ac7af6a67e
+
+
 
 ## Developers  
 Magg - Homepage (incl. wireframe design, navbar and footer), and reviewing HTML semantics on all pages  
