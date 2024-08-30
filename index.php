@@ -97,7 +97,7 @@
             <h2>Find Us</h2>
             <div class="map-container">
                 <iframe frameborder="0" referrerpolicy="no-referrer-when-downgrade" allowfullscreen loading="lazy"
-                        src="https://www.google.com/maps/d/u/0/embed?mid=1UePWm_uvRYTeWg9OKvLjpN8B1p8kPf0&ehbc=2E312F&z=12">   
+                        src="https://www.google.com/maps/d/embed?mid=12Te0NOhSEUSiA_OrNzlpM_tehS5EvCU&ehbc=2E312F&z=12">   
                 </iframe>
             </div>
         </section>
